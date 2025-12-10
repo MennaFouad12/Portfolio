@@ -53,7 +53,7 @@ const itemVariants = {
     y: 0,
     transition: {
       duration: 0.5,
-      ease: "easeOut"
+      ease:  [0.25, 0.1, 0.25, 1]
     }
   }
 }
@@ -83,7 +83,7 @@ const ProjectSection: React.FC<ProjectSectionProps> = ({ projects }) => {
           <motion.div 
             key={project.priority} 
             variants={itemVariants}
-            custom={index}
+            
           >
             <ProjectCard data={project} />
           </motion.div>
