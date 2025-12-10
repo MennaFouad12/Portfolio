@@ -1,0 +1,13 @@
+{
+  "priority": 4,
+  "title": "Quiz Website",
+  "shortDescription": "Interactive Quiz Web App built with React, featuring multiple-choice questions, real-time score tracking, and a final results summary, deployed on Vercel for fast, reliable access.",
+  "cover": "/qeuz.png",
+  "type": "New 🔥",
+  "livePreview": "https://quiz-app-two-flax.vercel.app/",
+  "siteAge": "4 months old",
+  "visitors": "100 Visitors",
+  "githubLink": "",
+  "earned": "",
+  "tech": ["React", "Tailwind CSS", "Framer Motion","React Qeury","formik","React helmet","Vercel Deployment.","vite","react-router-dom"]
+}

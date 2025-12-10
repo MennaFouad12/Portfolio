@@ -1,0 +1,10 @@
+{
+  "priority": 1,
+  "title": "PlantCare",
+  "shortDescription": "The PlantCare website is a smart plant care platform that uses AI to identify plants, detect diseases, check toxicity, and analyze light intensity. It features IoT integration for real-time humidity and temperature tracking,along with an e-commerce store and a plant care community.",
+  "cover": "/plantcare.png",
+  "livePreview": "https://mennafouad12.github.io/PlantCareLV/",
+  "type": "Client Work 🙍‍♂️",
+  "siteAge": "1 month old",
+  "tech": ["React", ".Net", "Tailwind CSS", "Framer Motion","flask","React Qeury","formik"]
+}

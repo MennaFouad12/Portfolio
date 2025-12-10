@@ -1,0 +1,10 @@
+{
+  "priority": 2,
+  "title": "Fresh Cart",
+  "shortDescription": "React-based e-commerce web app featuring user login, product browsing, product details, and shopping cart management, built as a responsive single-page application and deployed on GitHub Pages.",
+  "cover": "/freshcart.png",
+  "livePreview": "https://mennafouad12.github.io/react_ecommerce/#/login",
+  "visitors": "8K Visitors",
+  "earned": "$400 Earned",
+    "tech": ["React", "Tailwind CSS" ,"Framer Motion","React Qeury","formik","React helmet"]
+}

@@ -1,0 +1,12 @@
+{
+  "priority": 3,
+  "title": "FoodieHub",
+  "shortDescription": "The FoodieHub website is a modern full-stack restaurant platform that allows users to explore the menu, add items to their cart, and place online orders with secure Stripe payments. It includes an intuitive admin dashboard for managing food items, categories, and orders, along with real-time order updates and authentication for both users and admins.",
+  "cover": "/foodihub.png",
+  "type": "Free 🔥",
+  "livePreview": "https://food-delivery-frontend-sigma-ebon.vercel.app/",
+
+  "githubStars": "40 Stars",
+  "numberOfSales": "138 Sales",
+    "tech": ["React","Node.js","Express","MongoDB","Stripe", "Tailwind CSS" ,"Framer Motion","React Qeury","formik","JWT Authentication","Vercel Deployment."]
+}
