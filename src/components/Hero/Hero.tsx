@@ -2,7 +2,7 @@
 import useRoleSwitcher from '@/hooks/useRoleSwitcher'
 import useRotatingAnimation from '@/hooks/useRotatingAnimation'
 import Image from 'next/image'
-import { HeroImage } from '../../utils/images'
+// import { HeroImage } from '../../utils/images'
 import mennaphoto from '../../utils/menna.jpeg'
 import Ellipse from './Ellipse'
 
