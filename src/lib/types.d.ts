@@ -12,6 +12,7 @@ export interface Project {
   numberOfSales?: string
   type: string
   siteAge?: string
+  tech: string[]
 }
 
 export interface Heading {
